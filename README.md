@@ -3,9 +3,15 @@ Simple web app created with ReactJs. This app created base on guidances of React
 
 ## Table of Contents
 * [Technologies](#Technologies)
+* [Deployment](#Deployment)
 * [Setup](#Setup)
 * [Status](#Status)
 * [Inspiration](#Inspiration)
+
+## Deployment
+Here is the live demo: https://react-burgerbuilder-c0c3d.firebaseapp.com/
+
+![picture alt](https://github.com/dobaokhanh/BurgerBuilder-ReactJs/blob/master/demo.PNG "Burger Builder")
 
 ## Technologies
 * ReactJS: 16.11.0
