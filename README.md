@@ -37,7 +37,7 @@ $ npm start
 ```
 
 ## Status
-Project is in progress
+Project has already been deployed
 
 ## Inspiration
 This project base on guidances of React course in Udemy
